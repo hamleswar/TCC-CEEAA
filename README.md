@@ -1,2 +1,2 @@
-# TCC-CEEAA
-trabalho de conclusão do curso CEEAA
+# GA - BESOURO
+Estudo de algoritmo genético
